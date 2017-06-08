@@ -3,26 +3,26 @@ This repo contains information used in an introductory visualizing with spreadsh
 
 ## For this class, we will use the [Datawrapper](https://www.datawrapper.de) visualization tool to display six types of data visualizations.
 
-1. Create a line chart.
+### Line charts
 
 Data Source: http://bit.ly/2shL5Hw
 
-2. Create a bar chart.
+### Bar charts
 
 Data Source: http://bit.ly/1duCobo
 
-3. Create a split bars chart.
+### Split bars charts
 
 Data Source: http://pewrsr.ch/1z7LLqy
 
-4. Create a sortable data table.
+### Sortable data tables
 
 Data Source: http://pewrsr.ch/2riT46Q
 
-5. Create a map.
+### Choropleth maps
 
 Data Source: http://bit.ly/2r7Q0Xb
 
-6. Create a scatter plot.
+### Scatter plots
 
 Data Sources: http://bit.ly/1eRbn2E and http://bit.ly/2qYaDWA
