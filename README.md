@@ -3,26 +3,26 @@ This repo contains information used in an introductory visualizing with spreadsh
 
 ## For this class, we will use the [Datawrapper](https://www.datawrapper.de) visualization tool to display six types of data visualizations.
 
-### Line charts
+### Line Charts
 
 Data Source: http://bit.ly/2shL5Hw
 
-### Bar charts
+### Bar Charts
 
 Data Source: http://bit.ly/1duCobo
 
-### Split bars charts
+### Split Bars Charts
 
 Data Source: http://pewrsr.ch/1z7LLqy
 
-### Sortable data tables
+### Sortable Data Tables
 
 Data Source: http://pewrsr.ch/2riT46Q
 
-### Choropleth maps
+### Choropleth Maps
 
 Data Source: http://bit.ly/2r7Q0Xb
 
-### Scatter plots
+### Scatter Plots
 
 Data Sources: http://bit.ly/1eRbn2E and http://bit.ly/2qYaDWA
